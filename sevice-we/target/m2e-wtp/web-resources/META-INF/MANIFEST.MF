@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: sevice-we
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Daniel Medina - danielme.com
+Extension-Name: sevice-we
+Build-Jdk: 1.8.0_212
+Created-By: Maven Integration for Eclipse
+
